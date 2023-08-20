@@ -22,7 +22,7 @@ The Weather Forecasting Website is a dynamic and responsive web application that
 
 - External APIs: Integration with "Weather by API-Ninjas"
 
-- ##Deployed link
+## Deployed link
 - https://1910sharmaneha.github.io/weather_app/
 
 
